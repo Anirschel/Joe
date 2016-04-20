@@ -1,0 +1,18 @@
+body {
+    background-image: url("pic2.jpg");
+    background-color: yellow;
+}
+
+body {
+  border-style: solid;
+  border-color: red;
+  border-width: 6px;
+}
+
+
+h4 {
+font-size: 300%;
+color: #FF0000;
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: black;
+    padding: 15px;
